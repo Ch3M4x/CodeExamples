@@ -20,7 +20,7 @@ namespace LINQExamples
             //BUSINESS.processExamplePersons();
             //BUSINESS.processExamplePersons2();
             //BUSINESS.processExamplePersons3();
-            BUSINESS.processExamplePersons4();
+            //BUSINESS.processExamplePersons4();
 
             Console.WriteLine("Application terminated. Press any key to finish...");
             Console.ReadLine();

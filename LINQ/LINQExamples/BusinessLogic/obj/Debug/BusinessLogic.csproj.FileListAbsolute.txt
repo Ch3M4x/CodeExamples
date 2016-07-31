@@ -16,3 +16,12 @@ C:\Users\Chema\Downloads\HCL\Code\LINQ\LINQExamples\BusinessLogic\bin\Debug\Repo
 C:\Users\Chema\Downloads\HCL\Code\LINQ\LINQExamples\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
 C:\Users\Chema\Downloads\HCL\Code\LINQ\LINQExamples\BusinessLogic\obj\Debug\BusinessLogic.dll
 C:\Users\Chema\Downloads\HCL\Code\LINQ\LINQExamples\BusinessLogic\obj\Debug\BusinessLogic.pdb
+F:\DoCs\CodeExamples\LINQ\LINQExamples\BusinessLogic\bin\Debug\BusinessLogic.dll
+F:\DoCs\CodeExamples\LINQ\LINQExamples\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\DoCs\CodeExamples\LINQ\LINQExamples\BusinessLogic\bin\Debug\Entities.dll
+F:\DoCs\CodeExamples\LINQ\LINQExamples\BusinessLogic\bin\Debug\Repository.dll
+F:\DoCs\CodeExamples\LINQ\LINQExamples\BusinessLogic\bin\Debug\Entities.pdb
+F:\DoCs\CodeExamples\LINQ\LINQExamples\BusinessLogic\bin\Debug\Repository.pdb
+F:\DoCs\CodeExamples\LINQ\LINQExamples\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+F:\DoCs\CodeExamples\LINQ\LINQExamples\BusinessLogic\obj\Debug\BusinessLogic.dll
+F:\DoCs\CodeExamples\LINQ\LINQExamples\BusinessLogic\obj\Debug\BusinessLogic.pdb

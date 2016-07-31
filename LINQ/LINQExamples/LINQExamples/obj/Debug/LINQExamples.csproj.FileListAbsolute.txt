@@ -22,3 +22,15 @@ C:\Users\Chema\Downloads\HCL\Code\LINQ\LINQExamples\LINQExamples\bin\Debug\Busin
 C:\Users\Chema\Downloads\HCL\Code\LINQ\LINQExamples\LINQExamples\bin\Debug\Entities.pdb
 C:\Users\Chema\Downloads\HCL\Code\LINQ\LINQExamples\LINQExamples\bin\Debug\Repository.pdb
 C:\Users\Chema\Downloads\HCL\Code\LINQ\LINQExamples\LINQExamples\obj\Debug\LINQExamples.csprojResolveAssemblyReference.cache
+F:\DoCs\CodeExamples\LINQ\LINQExamples\LINQExamples\bin\Debug\LINQExamples.exe.config
+F:\DoCs\CodeExamples\LINQ\LINQExamples\LINQExamples\obj\Debug\LINQExamples.exe
+F:\DoCs\CodeExamples\LINQ\LINQExamples\LINQExamples\obj\Debug\LINQExamples.pdb
+F:\DoCs\CodeExamples\LINQ\LINQExamples\LINQExamples\bin\Debug\LINQExamples.exe
+F:\DoCs\CodeExamples\LINQ\LINQExamples\LINQExamples\bin\Debug\LINQExamples.pdb
+F:\DoCs\CodeExamples\LINQ\LINQExamples\LINQExamples\bin\Debug\BusinessLogic.dll
+F:\DoCs\CodeExamples\LINQ\LINQExamples\LINQExamples\bin\Debug\Entities.dll
+F:\DoCs\CodeExamples\LINQ\LINQExamples\LINQExamples\bin\Debug\Repository.dll
+F:\DoCs\CodeExamples\LINQ\LINQExamples\LINQExamples\bin\Debug\BusinessLogic.pdb
+F:\DoCs\CodeExamples\LINQ\LINQExamples\LINQExamples\bin\Debug\Entities.pdb
+F:\DoCs\CodeExamples\LINQ\LINQExamples\LINQExamples\bin\Debug\Repository.pdb
+F:\DoCs\CodeExamples\LINQ\LINQExamples\LINQExamples\obj\Debug\LINQExamples.csprojResolveAssemblyReference.cache
