@@ -1,0 +1,7 @@
+F:\Escritorio\Cursos-Certificaciones\Cursos\Microsoft\LINQ\Self-study\LINQExamples\Repository\bin\Debug\Repository.dll
+F:\Escritorio\Cursos-Certificaciones\Cursos\Microsoft\LINQ\Self-study\LINQExamples\Repository\bin\Debug\Repository.pdb
+F:\Escritorio\Cursos-Certificaciones\Cursos\Microsoft\LINQ\Self-study\LINQExamples\Repository\bin\Debug\Entities.dll
+F:\Escritorio\Cursos-Certificaciones\Cursos\Microsoft\LINQ\Self-study\LINQExamples\Repository\bin\Debug\Entities.pdb
+F:\Escritorio\Cursos-Certificaciones\Cursos\Microsoft\LINQ\Self-study\LINQExamples\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\Escritorio\Cursos-Certificaciones\Cursos\Microsoft\LINQ\Self-study\LINQExamples\Repository\obj\Debug\Repository.dll
+F:\Escritorio\Cursos-Certificaciones\Cursos\Microsoft\LINQ\Self-study\LINQExamples\Repository\obj\Debug\Repository.pdb
